@@ -1,0 +1,3 @@
+[submodule "APIJSON"]
+	path = APIJSON
+	url = git@github.com:chinayestyle/APIJSON.git
